@@ -1,7 +1,7 @@
 # SVM for Abalone
 Implementation of SVM using libsvm on Abalone dataset. 
 
-This is the part (c) of homework 2 for [XXX] course.
+This is the part (c) of homework 2 for Foundations of Machine Learning.
 
 ## Dataset
 * [Abalone dataset](http://archive.ics.uci.edu/ml/datasets/Abalone)
